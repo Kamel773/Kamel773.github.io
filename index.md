@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-I am a fourth year Ph.D. student at the [Georgia Institute of Technology](https://gatech.edu/), working at the [Institute for Robotics and Intelligent Machines (IRIM)](https://allenai.org/aristo). I am advised by Prof. [Matthew Gombolay](https://sites.gatech.edu/matthew-gombolay/).
+I am a fourth year Ph.D. student at the [Georgia Institute of Technology](https://gatech.edu/), working at the [Institute for Robotics and Intelligent Machines (IRIM)]([https://allenai.org/aristo](https://research.gatech.edu/robotics)). I am advised by Prof. [Matthew Gombolay](https://sites.gatech.edu/matthew-gombolay/).
 
 I work on the **Language Models (LMs) for code generation and 3D design** with the goal of increasing their performance and safety.
 
