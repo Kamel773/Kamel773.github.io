@@ -22,6 +22,7 @@ I work on the **Language Models (LMs) for code generation and 3D design** with t
 
 
 ### Contact me
+- [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=7j0jTzYAAAAJ)
 - [Email](kalrashedy3@gatech.edu)
 - [Twitter](https://twitter.com/Kamel773)
 - [Github](https://github.com/Kamel773)
