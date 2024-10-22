@@ -18,7 +18,7 @@ I work on the **Language Models (LMs) for code generation and 3D design** with t
 
 
 ### News
-- **MAy 2024:** I passed the Qualifying Exam in (Natural Language Processing and Machine Learning)
+- **May 2024:** I passed the Qualifying Exam in (Natural Language Processing and Machine Learning)
 
 
 ### Contact me
