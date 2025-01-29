@@ -13,8 +13,8 @@ I work on the **Language Models (LMs) for code generation and 3D design** with t
  
 ### Selected papers
 - **[Generating CAD Code with Vision-Language Models for 3D Designs](https://arxiv.org/pdf/2410.05340)**: *ICLR 2025*
+- **[Learning Defect Prediction from Unrealistic Data](https://arxiv.org/pdf/2311.00931)**: *SANER 2024*
 - **[Can LLMs Patch Security Issues?](https://arxiv.org/pdf/2312.00024)**: *Under review*
-- **[Learning Defect Prediction from Unrealistic Data](https://arxiv.org/pdf/2311.00931)**: *(SANER 2024)*
 
 
 ### News
