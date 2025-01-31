@@ -18,6 +18,7 @@ I work on the **Language Models (LMs) for code generation and 3D design** with t
 
 
 ### News
+- **Jan 2025:** Our paper on CAD code generation has been accepted at ICLR.
 - **May 2024:** I passed the Qualifying Exam in (Natural Language Processing and Machine Learning)
 
 
