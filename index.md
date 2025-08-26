@@ -3,11 +3,9 @@ layout: default
 ---
 
 
-I am a fourth year Ph.D. student at the [Georgia Institute of Technology](https://gatech.edu/), working at the [Institute for Robotics and Intelligent Machines (IRIM)](https://research.gatech.edu/robotics). I am advised by Prof. [Matthew Gombolay](https://sites.gatech.edu/matthew-gombolay/).
+I am a fifth year Ph.D. student at the [Georgia Institute of Technology](https://gatech.edu/), working at the [Institute for Robotics and Intelligent Machines (IRIM)](https://research.gatech.edu/robotics). I am advised by Prof. [Matthew Gombolay](https://sites.gatech.edu/matthew-gombolay/).
 
-I work on the **Language Models (LMs) for code generation and 3D design** with the goal of increasing their performance and safety.
-
-**I am looking for a research internship for the summer 2025, please reach out if you think I would be a good fit.**
+I focus on natural language processing and machine learning, with an emphasis on improving Large Language Models (LLMs) for generation and refinement. My long-term goal is to create intelligent systems that help engineers, developers, and designers work more efficiently.
 
 
  
@@ -15,6 +13,7 @@ I work on the **Language Models (LMs) for code generation and 3D design** with t
 - **[Generating CAD Code with Vision-Language Models for 3D Designs](https://arxiv.org/pdf/2410.05340)**: *ICLR 2025*
 - **[Learning Defect Prediction from Unrealistic Data](https://arxiv.org/pdf/2311.00931)**: *SANER 2024*
 - **[Can LLMs Patch Security Issues?](https://arxiv.org/pdf/2312.00024)**: *Under review*
+
 
 
 ### News
