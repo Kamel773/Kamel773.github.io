@@ -22,7 +22,7 @@ I focus on natural language processing and machine learning, with an emphasis on
 
 
 ### Contact me
-- [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=7j0jTzYAAAAJ)
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=7j0jTzYAAAAJ&view_op=list_works&sortby=pubdate)
 - Email: kalrashedy3@gatech.edu
 - [Twitter](https://twitter.com/Kamel773)
 - [Github](https://github.com/Kamel773)
