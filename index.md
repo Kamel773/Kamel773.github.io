@@ -12,7 +12,7 @@ I focus on natural language processing and machine learning, with an emphasis on
 ### Selected papers
 - **[Generating CAD Code with Vision-Language Models for 3D Designs](https://arxiv.org/pdf/2410.05340)**: *ICLR 2025*
 - **[Learning Defect Prediction from Unrealistic Data](https://arxiv.org/pdf/2311.00931)**: *SANER 2024*
-- **[Can LLMs Patch Security Issues?](https://arxiv.org/pdf/2312.00024)**: *Under review*
+- **[Can LLMs Patch Security Issues?](https://arxiv.org/pdf/2312.00024)**: *JSP 2025*
 - **[Constraints-of-Thought: A Framework for Constrained Reasoning in Language-Model-Guided Search](https://arxiv.org/abs/2510.08992)**: *Under review*
 
 
