@@ -7,7 +7,7 @@ I am a Ph.D. candidate at the [Georgia Institute of Technology](https://gatech.e
 
 I focus on natural language processing and machine learning, with an emphasis on improving Large Language Models (LLMs) for generation and refinement. My long-term goal is to create intelligent systems that help engineers, developers, and designers work more efficiently.
 
-### Selected papers
+### Research Directions
 - **Learning from Feedback:** Building AI systems that improve through verification, evaluation, and iterative feedback ([ICLR'25](https://arxiv.org/pdf/2410.05340), [JSP'25](https://arxiv.org/pdf/2312.00024)).
 - **Learning to Reason Under Constraints:** Enabling AI systems to reason explicitly under physical, safety, and task-specific constraints ([Preprint](https://arxiv.org/abs/2510.08992)).
 - **Learning Which Feedback to Trust:** Developing AI systems that assess feedback quality and learn to utilize reliable feedback sources effectively.
